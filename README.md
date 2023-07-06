@@ -1,4 +1,4 @@
-# frog-finance
+# Frog Finance
 Frog Finance is the solution to managing your money. Whether you’re a recent graduate trying to get rid of student debt, a young family looking to purchase your first home, or a working professional wanting to track your expenses.
 
 
