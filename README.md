@@ -2,7 +2,7 @@
 Frog Finance is the solution to managing your money. Whether you’re a recent graduate trying to get rid of student debt, a young family looking to purchase your first home, or a working professional wanting to track your expenses.
 
 
-We designed a website that helps people learn about personal finance, reach their financial goals, and make smarter decisions for the future.
+We designed a full stack, multipage website that helps people learn about personal finance, reach their financial goals, and make smarter decisions for the future.
 
 ## User can:
 * add and track their monthly income
